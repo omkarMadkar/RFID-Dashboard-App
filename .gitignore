@@ -5,9 +5,9 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/.idea/deviceManager.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
-/.idea/deviceManager.xml
 .DS_Store
 /build
 /captures
